@@ -1,2 +1,2 @@
 import streamlit as st
-print("hello streamlit")
+st.write("hello streamlit")
